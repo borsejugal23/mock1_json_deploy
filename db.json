@@ -40,5 +40,73 @@
       "category": "Music",
       "price": 400
     }
+  ],
+  "question": [
+    {
+    "userAvatar": "user_avatar.png",
+    "username": "JohnDoe123",
+    "questionTitle": "How to sort an array in JavaScript?",
+    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+    "language": "JavaScript",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  },
+  {
+    "userAvatar": "user_avatar.png",
+    "username": "JohnDoe123",
+    "questionTitle": "How to sort an array in JavaScript?",
+    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+    "language": "JavaScript",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  },
+  {
+    "userAvatar": "user_avatar.png",
+    "username": "JohnDoe123",
+    "questionTitle": "How to sort an array in JavaScript?",
+    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+    "language": "JavaScript",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  }
+],
+  "answers": [
+    {
+      "userAvatar": "user_avatar2.png",
+      "username": "JaneSmith456",
+      "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+      "postedDate": "2023-05-31"
+    },
+    {
+      "userAvatar": "user_avatar3.png",
+      "username": "SamJohnson789",
+      "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+      "postedDate": "2023-06-01"
+    },
+    {
+      "userAvatar": "user_avatar4.png",
+      "username": "EmilyBrownXYZ",
+      "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+      "postedDate": "2023-06-01"
+    }
+  ],
+  "users": [
+    {
+      "email": "borsejugal@gmail.com",
+      "password": "1234",
+      "username": "borsejugal",
+      "avatar": "https://th.bing.com/th?id=OIP.ixZ69lPCOZ3ZO5UqSHQGIAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "id": 1
+    },
+    {
+      "email": "eve.holt@reqres.in",
+      "password": "1234",
+      "username": "anna",
+      "avatar": "none",
+      "id": 2
+    }
   ]
 }
